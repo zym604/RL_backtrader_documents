@@ -4,8 +4,12 @@
 
 (此项目仅用于展示代码运行结果，源码请联系作者 VX:yzhu25)
 
-2020-08-21：目前本项目已实现框架自行交易，效果如下图所示：
+2020-08-21：目前本项目已实现框架自行交易，动画效果如下图所示：
 
-![hippo](https://github.com/zym604/RL_backtrader_documents/blob/master/test.gif)
+![image](https://github.com/zym604/RL_backtrader_documents/blob/master/test.gif)
+
+如打不开，可进入pics文件夹分别查看每一步的交易结果图：
+
+![image](https://github.com/zym604/RL_backtrader_documents/blob/master/pics_4_4_200000buffer)
 
 从图中可以看出，随着训练次数（epoch）的增加，本机器学习算法在不断学习如何交易。但因为数据量不足，因子不足等原因，算法的表现十分一般。
