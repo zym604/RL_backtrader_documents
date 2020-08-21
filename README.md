@@ -6,6 +6,6 @@
 
 2020-08-21：目前本项目已实现框架自行交易，效果如下图所示：
 
-![image](https://github.com/zym604/RL_backtrader_documents/blob/master/test.gif)
+![hippo](https://github.com/zym604/RL_backtrader_documents/blob/master/test.gif)
 
 从图中可以看出，随着训练次数（epoch）的增加，本机器学习算法在不断学习如何交易。但因为数据量不足，因子不足等原因，算法的表现十分一般。
